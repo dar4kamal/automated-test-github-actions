@@ -1,0 +1,14 @@
+{
+  "name": "auto-test-github-actions",
+  "version": "1.0.0",
+  "description": "Demo for using Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mostaf Kamal",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
